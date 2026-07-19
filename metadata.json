@@ -1,0 +1,6 @@
+{
+  "name": "Maa Sharda Hotel Journal",
+  "description": "A modern, responsive, and professional transaction journal and ledger management system for Maa Sharda Hotel. Features include real-time accounting, stock management, credit ledgers, dynamic reports, and Google Workspace integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
